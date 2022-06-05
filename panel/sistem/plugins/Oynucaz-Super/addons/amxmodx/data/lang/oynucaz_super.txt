@@ -1,0 +1,330 @@
+[en]
+
+AMX_SUPER_TEAM_IMMUNITY = [Oynucaz.Com]  Oyuncu Bagisiklik Cunku ^"%s^" Atlaniyor.
+AMX_SUPER_NO_PLAYERS = [Oynucaz.Com]  Takiminizda boyle Oyuncu bulunmamaktadir!
+AMX_SUPER_AMOUNT_GREATER = [Oynucaz.Com] Tutar vermek Sifirdan buyuk Olmalidir.!
+
+AMX_SUPER_HEAL_TEAM_CASE2 = !g[Oynucaz.Com]  !t%s!y: !t%d !yHP !t%s !yAdli !yOyuncuya !yVerdi.
+AMX_SUPER_HEAL_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%d !yHP !t%s !yAdli !yOyuncuya !yVerdi.
+AMX_SUPER_HEAL_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%d !yHP !t%s !yAdli !yOyuncuya !yVerdi.	
+AMX_SUPER_HEAL_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%d !yHP !t%s !yAdli !yOyuncuya !yVerdi.
+AMX_SUPER_HEAL_TEAM_LOG = [Oynucaz.Com] Saglik: ^"%s<%s>^" %d HP ^"%s^" Adli Oyuncuya Werdi
+AMX_SUPER_HEAL_PLAYER_LOG = [Oynucaz.Com] Saglik: ^"%s<%s>^" %d HP ^"%s<%s>^" Adli Oyuncuya Werdi 
+AMX_SUPER_HEAL_TEAM_MSG = [Oynucaz.Com] %d HP %s Adli Oyuncuya Werildi.
+AMX_SUPER_HEAL_PLAYER_MSG = [Oynucaz.Com] %d HP %s Adli Oyuncuya Werildi.
+
+AMX_SUPER_ARMOR_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%d !yZirh !t%s !yAdli !yOyuncuya !yWerildi.
+AMX_SUPER_ARMOR_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%d !yZirh !t%s !yAdli !yOyuncuya !yWerildi.
+AMX_SUPER_ARMOR_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%d !yZirh !t%s !yAdli !yOyuncuya !yWerildi
+AMX_SUPER_ARMOR_PLAYER_CASE1 = !g[Oynucaz.Com] ADMIN: %d Zirh %s Adli Oyuncuya Verildi
+AMX_SUPER_ARMOR_TEAM_LOG = [Oynucaz.Com] ZIRH: ^"%s<%s>^" gave %d armor to ^"%s^" players
+AMX_SUPER_ARMOR_PLAYER_LOG = [Oynucaz.Com] ZIRH: ^"%s<%s>^" gave %d armor ^"%s<%s>^"
+AMX_SUPER_ARMOR_TEAM_MSG = [Oynucaz.Com] %d Zirh %s Adli Oyuncuya Verildi.
+AMX_SUPER_ARMOR_PLAYER_MSG = [Oynucaz.Com] %d Zirh %s Adli Oyuncuya Verildi.
+
+AMX_SUPER_STACK_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: Butun Oyunculari !t%s !yUzerine Koydu.
+AMX_SUPER_STACK_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: Butun Oyunculari !t%s !yUzerine Koydu.
+AMX_SUPER_STACK_PLAYER_LOG = [Oynucaz.Com] STACK: ^"%s<%s>^" stacked all players on ^"%s<%s>^"
+AMX_SUPER_STACK_PLAYER_MSG = [Oynucaz.Com] Butun Oyunculari %s Uzerine Koydu.																	
+
+AMX_SUPER_ALLTALK_STATUS = [Oynucaz.Com] Sunucudaki Tum Konusma ^"%d^"'dir.
+AMX_SUPER_ALLTALK_SET_CASE2 = [Oynucaz.Com] ADMIN %s : set sv_alltalk to ^"%s^"
+AMX_SUPER_ALLTALK_SET_CASE1 = [Oynucaz.Com] ADMIN set sv_alltalk to ^"%s^"
+AMX_SUPER_ALLTALK_LOG = [Oynucaz.Com] ALLTALK: ^"%s<%s>^" set sv_alltalk to ^"%s^"
+AMX_SUPER_ALLTALK_MSG = [Oynucaz.Com] Alltalk has been set to ^"%s^"
+
+AMX_SUPER_GRAVITY_STATUS = [Oynucaz.Com] Server YerCekimi ^"%d^"
+AMX_SUPER_GRAVITY_SET_CASE2 = [Oynucaz.Com] ADMIN %s : Yer Cekimi'ni ^"%s^" Ayarladi
+AMX_SUPER_GRAVITY_SET_CASE1 = [Oynucaz.Com] ADMIN: Yer Cekimi'ni ^"%s^" Ayarladi.
+AMX_SUPER_GRAVITY_LOG = [Oynucaz.Com] YERCEKIMI : ^"%s<%s>^" Yer Cekimi ^"%s^" Olarak Ayarlandi
+AMX_SUPER_GRAVITY_MSG = [Oynucaz.Com] YERCEKIMI : ^"%s^" Olarak Ayarlandi.
+AMX_SUPER_GRAVITY_CHECK = [Oynucaz.Com] Yer Cekimi %i Olarak Ayarlandi
+
+AMX_SUPER_BURY_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yAdli !yOyuncu !yGomuldu
+AMX_SUPER_BURY_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yAdli !yOyuncu !yGomuldu
+AMX_SUPER_BURY_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yGomuldu
+AMX_SUPER_BURY_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yGomuldu
+AMX_SUPER_UNBURY_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yAdli !yTakim !yGomulmekten !yCikarildi
+AMX_SUPER_UNBURY_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yAdli !yTakim !yGomulmekten !yCikarildi
+AMX_SUPER_UNBURY_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yAdli !yOyuncu !yGomulmekten !yCikarildi
+AMX_SUPER_UNBURY_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yAdli !yOyuncu !yGomulmekten !yCikarildi
+AMX_SUPER_UNBURY_TEAM_LOG = [Oynucaz.Com] DEFNETMEK: ^"%s<%s>^" ^"%s^" Defnetti
+AMX_SUPER_UNBURY_PLAYER_LOG = [Oynucaz.Com] DEFNETMEK: ^"%s<%s>^" ^"%s<%s>^" Defnetti
+AMX_SUPER_BURY_PLAYER_LOG = [Oynucaz.Com] BURY: ^"%s<%s>^" has buried ^"%s<%s>^"
+AMX_SUPER_BURY_TEAM_LOG = [Oynucaz.Com] BURY: ^"%s<%s>^" has buried ^"%s^" players
+AMX_SUPER_BURY_MSG = [Oynucaz.Com] Player %s has been buried
+AMX_SUPER_UNBURY_MSG = [Oynucaz.Com] Player %s has been unburied
+
+AMX_SUPER_DISARM_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yAdli !yTakim !ySilahsiz
+AMX_SUPER_DISARM_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yAdli !yTakim !ySilahsiz
+AMX_SUPER_DISARM_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !ySilahsiz
+AMX_SUPER_DISARM_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !ySilahsiz
+AMX_SUPER_DISARM_TEAM_LOG = [Oynucaz.Com] SILAHSIZLANDIRMAK: ^"%s<%s>^" Silahi Olan ^"%s^" Oyuncusu Silahsizlandirildi.
+AMX_SUPER_DISARM_PLAYER_LOG = [Oynucaz.Com] DISARM: ^"%s<%s>^"Silahi Olan ^"%s<%s>^" Oyuncusu Silahsizlandirildi.
+AMX_SUPER_DISARM_MSG = [Oynucaz.Com] Oyuncu %s Silahsiz Kaldi
+
+AMX_SUPER_SLAY2_TEAM_CASE2 = !g[Oynucaz.Com] !t%s1y: !t%s !yAdli !yOyuncular !yOlduruldu
+AMX_SUPER_SLAY2_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yAdli !yOyuncular !yOlduruldu
+AMX_SUPER_SLAY2_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yOlduruldu
+AMX_SUPER_SLAY2_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yOlduruldu
+AMX_SUPER_SLAY2_TEAM_LOG = [Oynucaz.Com] SLAY2: ^"%s<%s>^" slayed ^"%s^" players 
+AMX_SUPER_SLAY2_PLAYER_LOG =  [Oynucaz.Com] SLAY2: ^"%s<%s>^" slayed ^"%s<%s>^"
+AMX_SUPER_SLAY2_TEAM_MSG = [Oynucaz.Com] Slayed %s players
+AMX_SUPER_SLAY2_PLAYER_MSG = [Oynucaz.Com] Slayed %s
+
+AMX_SUPER_FIRE_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli oyuncuyu yakti.
+AMX_SUPER_FIRE_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli oyuncuyu yakti.
+AMX_SUPER_FIRE_TEAM_LOG = [Oynucaz.Com] FIRE: ^"%s<%s>^" set fire to ^"%s^" players
+AMX_SUPER_FIRE_PLAYER_LOG = [Oynucaz.Com] FIRE: ^"%s<%s>^" set fire to ^"%s<%s>^"
+AMX_SUPER_FIRE_TEAM_MSG = [Oynucaz.Com] Set %s players on fire
+AMX_SUPER_FIRE_PLAYER_MSG = [Oynucaz.Com] Set %s on fire
+AMX_SUPER_FIRE_SPREAD = * [Oynucaz.Com] OH! NO! %s has caught %s on fire!
+
+AMX_SUPER_ROCKET_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yAdli !yTakim !yRoketlendi
+AMX_SUPER_ROCKET_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yAdli !yTakim !yRoketlendi
+AMX_SUPER_ROCKET_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yAdli !yOyuncu !yRoketlendi
+AMX_SUPER_ROCKET_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yAdli !yOyuncu !yRoketlendi
+AMX_SUPER_ROCKET_TEAM_LOG = [Oynucaz.Com] ROKET: ^"%s<%s>^" made rockets out of ^"%s^" players
+AMX_SUPER_ROCKET_PLAYER_LOG = [Oynucaz.Com] ROKET: ^"%s<%s>^" made a rocket out of ^"%s<%s>^"
+AMX_SUPER_ROCKET_TEAM_MSG = [Oynucaz.Com] Made rockets out of %s players
+AMX_SUPER_ROCKET_PLAYER_MSG = [Oynucaz.Com] Made a rocket out of %s
+
+AMX_SUPER_UBERSLAP_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yolene !ykadar !ytokatlandi
+AMX_SUPER_UBERSLAP_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yolene !ykadar !ytokatlandi
+AMX_SUPER_UBERSLAP_PLAYER_MSG = [Oynucaz.Com] %s tokatlandi
+AMX_SUPER_UBERSLAP_PLAYER_LOG = [Oynucaz.Com] UBERSLAP: ^"%s<%s>^" uberslapped ^"%s<%s>^"
+
+AMX_SUPER_PASSWORD_SET_CASE2 = !g[Oynucaz.Com] !t%s!y: !ysunucu !ysifresi !ykoyuldu.
+AMX_SUPER_PASSWORD_SET_CASE1 = !g[Oynucaz.Com] !yADMIN: !ysunucu !ysifresi !ykoyuldu
+AMX_SUPER_PASSWORD_REMOVE_CASE2 = !g[Oynucaz.Com] !t%s!y: !ysunucu !ysifresi !ykaldirildi.
+AMX_SUPER_PASSWORD_REMOVE_CASE1 = !g[Oynucaz.Com] !yADMIN: !ysunucu !ysifresi !ykaldirildi.
+AMX_SUPER_PASSWORD_SET_LOG = [Oynucaz.Com] PASSWORD: ^"%s<%s>^" set the server password to ^"%s^"
+AMX_SUPER_PASSWORD_REMOVE_LOG = [Oynucaz.Com] PASSWORD: ^"%s<%s>^" removed the server password
+
+AMX_SUPER_REVIVE_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli !yoyuncu !ycanlandirildi.
+AMX_SUPER_REVIVE_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli !yoyuncu !ycanlandirildi.
+AMX_SUPER_REVIVE_PLAYER_CASE2 = !g[Oynucaz.Com]  !t%s!y: !t%s !yadli !yoyuncuyu !ycanlandirdi.
+AMX_SUPER_REVIVE_PLAYER_CASE1 = !g[Oynucaz.Com]  ADMIN: !t%s !yadli !yoyuncuyu !ycanlandirdi.
+AMX_SUPER_REVIVE_TEAM_LOG = [Oynucaz.Com] REVIVE: ^"%s<%s>^" revived ^"%s^" players
+AMX_SUPER_REVIVE_PLAYER_LOG = [Oynucaz.Com] REVIVE: ^"%s<%s>^" revived ^"%s<%s>^"
+AMX_SUPER_REVIVE_TEAM_MSG = [Oynucaz.Com] %s Oyuncusunu Canlandirildi
+AMX_SUPER_REVIVE_PLAYER_MSG = [Oynucaz.Com] %s Canlandirildi.
+AMX_SUPER_REVIVE_TEAM_HUD = %s Adli Oyuncu Canlandirildi!
+AMX_SUPER_REVIVE_PLAYER_HUD = %s Adli Oyuncu Canlandirildi!
+
+AMX_SUPER_QUIT_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli !yoyuncunun !toyun!yunu !ykapatti.
+AMX_SUPER_QUIT_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli !yoyuncunun !yoyununu !ykapatti
+AMX_SUPER_QUIT_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yoyundan !ycikartildi.
+AMX_SUPER_QUIT_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yoyundan !ycikartildi.
+AMX_SUPER_QUIT_TEAM_LOG = [Oynucaz.Com] CIKIS: ^"%s<%s>^" has made ^"%s^" Oyuncular Oyundan Cikti
+AMX_SUPER_QUIT_PLAYER_LOG = [Oynucaz.Com] QUIT: ^"%s<%s>^" has made ^"%s<%s>^" Oyundan Cikti
+
+AMX_SUPER_GAG_CONNECTED = !g[Oynucaz.Com] !ySusturulmus oyuncu !t%s !yoyuna girmistir
+AMX_SUPER_PLAYER_GAGGED = !g[Oynucaz.Com] !tAdmin !ytarafindan susturulma cezasi aldiniz
+AMX_SUPER_GAG_PLAYER_DISCONNECT = [Oynucaz.Com] Susturulmus oyuncunun baglantisi kesildi: ( %s <%s> )
+AMX_SUPER_PLAYER_NAMELOCK = !g[Oynucaz.Com] !ySusturulmus oyuncu !tNick Degistiremez
+AMX_SUPER_NOT_GAGGED = [Oynucaz.Com] %s adli oyuncu susturulma cezasi yoktur, ungag yapamazsiniz!
+AMX_SUPER_GAG_END = !g[Oynucaz.Com] !t%s !yartik susturulma !tCezasi !yyoktur
+
+AMX_SUPER_GAG_PLAYER_REASON_CASE2 = !g[Oynucaz.Com]  !t%s!y: !t%s !ysusturulma !ycezasi !yalmistir : %s ( %s )
+AMX_SUPER_GAG_PLAYER_REASON_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !ysusturulma !ycezasi !yalmistir : %s ( %s )
+AMX_SUPER_GAG_PLAYER_CASE2 = !g[Oynucaz.Com]  !t%s!y: !t%s !ysusturulma !ycezasi !yalmistir !y( !t%s !y)
+AMX_SUPER_GAG_PLAYER_CASE1 = !g[Oynucaz.Com]  !yADMIN: !t%s !ysusturulma !ycezasi !yalmistir !y( !t%s !y)
+
+AMX_SUPER_UNGAG_PLAYER_CASE2 = !g[Oynucaz.Com]  !t%s!y: !t%s !ysusturulma yasagi kaldirilmistir 
+AMX_SUPER_UNGAG_PLAYER_CASE1 = !g[Oynucaz.Com]  !yADMIN: !t%s !ysusturulma yasagi kaldirilmistir
+AMX_SUPER_GAG_PLAYER_REASON_LOG = [Oynucaz.Com] Gag: ^"%s<%s>^" Has Gagged %s <%s> for %d ( %d ) Reason: %s
+AMX_SUPER_GAG_PLAYER_LOG = [Oynucaz.Com] Gag: ^"%s<%s>^" Has Gagged %s <%s> for %d ( %d )
+AMX_SUPER_UNGAG_PLAYER_LOG = [Oynucaz.Com] UnGag: ^"%s<%s>^" Has Ungagged %s<%s>
+AMX_SUPER_GAG_REASON = [Oynucaz.Com] * You are Gagged For The Following Reason: %s
+AMX_SUPER_GAG_RULES = [Oynucaz.Com] You Were Gagged For Not Following The Rules
+
+AMX_SUPER_WEAPON_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !y[!t%d!y] nolu silahi !t%s !yadli oyunculara verildi
+AMX_SUPER_WEAPON_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: [!t%d!y] nolu silahi !t%s !yadli oyunculara verildi
+AMX_SUPER_WEAPON_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !y[!t%d!y] nolu silahi !t%s !yadli oyuncuya verdi
+AMX_SUPER_WEAPON_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: [!t%d!y] nolu silahi !t%s !yadli oyunculara verdi
+AMX_SUPER_WEAPON_TEAM_LOG = [Oynucaz.Com] WEAPON: ^"%s<%s>^" gave the weapon ^"%d^" to ^"%s^" players
+AMX_SUPER_WEAPON_PLAYER_LOG = [Oynucaz.Com] WEAPON: ^"%s<%s>^" gave the weapon ^"%d^" to ^"%s<%s>^"
+AMX_SUPER_WEAPON_TEAM_MSG = [Oynucaz.Com] Gave the weapon %d to %s players
+AMX_SUPER_WEAPON_PLAYER_MSG = [Oynucaz.Com] Gave the weapon %d to %s
+
+AMX_SUPER_NOCLIP_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli takimin duvardan gecebilme ayari !t^"%d^" !yYapildi.
+AMX_SUPER_NOCLIP_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli takimin duvardan gecebilme ayari !t^"%d^" !yYapildi.
+AMX_SUPER_NOCLIP_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli oyuncunun duvardan gecme ozelligi !t^"%d^" !yOlarak ayarlandi
+AMX_SUPER_NOCLIP_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli oyuncunun duvardan gecme ozelligi !t^"%d^" !yOlarak ayarlandi
+AMX_SUPER_NOCLIP_TEAM_LOG = [Oynucaz.Com] NOCLIP: ^"%s<%s>^" set noclip ^"%d^" on ^"%s^" players
+AMX_SUPER_NOCLIP_PLAYER_LOG = [Oynucaz.Com] NOCLIP: ^"%s<%s>^" set noclip ^"%d^" on ^"%s<%s>^"
+AMX_SUPER_NOCLIP_TEAM_MSG = [Oynucaz.Com] Set noclip ^"%d^" on %s players
+AMX_SUPER_NOCLIP_PLAYER_MSG = [Oynucaz.Com] Set noclip ^"%d^" on %s
+
+AMX_SUPER_FLASH_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli takim !tFlash !yyedi
+AMX_SUPER_FLASH_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli takim !tFlash !yyedi
+AMX_SUPER_FLASH_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli oyuncu !tFlash !yyedi
+AMX_SUPER_FLASH_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli oyuncu !tFlash !yyedi
+AMX_SUPER_FLASH_TEAM_LOG = [Oynucaz.Com] FLASH: ^"%s<%s>^" flashbanged ^"%s^" players
+AMX_SUPER_FLASH_PLAYER_LOG = [Oynucaz.Com] FLASH: ^"%s<%s>^" flashbanged ^"%s<%s>^"
+AMX_SUPER_FLASH_TEAM_MSG = [Oynucaz.Com] Flashbanged %s players
+AMX_SUPER_FLASH_PLAYER_MSG = [Oynucaz.Com] Flashbanged %s
+
+AMX_SUPER_GODMODE_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yAdli !yTakimin !yOlumsuzluk !yOzelligi !t^"%d^" !yOlarak !yAyarlandi
+AMX_SUPER_GODMODE_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yAdli !yTakimin !yOlumsuzluk !yOzelligi !t^"%d^" !yOlarak !yAyarlandi
+AMX_SUPER_GODMODE_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yAdli !yOyuncunun !yOlumsuzluk !yOzelligi !t^"%d^" !yOlarak !yAyarlandi
+AMX_SUPER_GODMODE_PLAYER_CASE1 = !g[Oynucaz.Com] ADMIN: !t%s !yAdli !yTakimin !yOlumsuzluk !yOzelligi !t^"%d^" !yOlarak !yAyarlandi
+AMX_SUPER_GODMODE_TEAM_LOG = [Oynucaz.Com] GODMODE: ^"%s<%s>^" set godmode ^"%d^" on ^"%s^" players
+AMX_SUPER_GODMODE_PLAYER_LOG = [Oynucaz.Com] GODMODE: ^"%s<%s>^" set godmode ^"%d^" on ^"%s<%s>^"
+AMX_SUPER_GODMODE_TEAM_MSG = [Oynucaz.Com] Set godmode ^"%d^" on %s players
+AMX_SUPER_GODMODE_PLAYER_MSG = [Oynucaz.Com] Set godmode ^"%d^" on %s
+
+AMX_SUPER_GIVEMONEY_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli oyuncuya !t%i$ !ypara verildi 
+AMX_SUPER_GIVEMONEY_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli oyuncuya !t%i$ !ypara verildi 
+AMX_SUPER_GIVEMONEY_PLAYER_MSG = [Oynucaz.Com] Gave $%i to %s
+AMX_SUPER_GIVEMONEY_PLAYER_LOG = [Oynucaz.Com] GIVE MONEY: ^"%s<%s>^" gave $%i to ^"%s<%s>^"
+AMX_SUPER_TAKEMONEY_ALL_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli oyuncunun Tum parasi elinden alindi
+AMX_SUPER_TAKEMONEY_ALL_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli oyuncunun Tum parasi elinden alindi
+AMX_SUPER_TAKEMONEY_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli oyuncudan !t%i$ !ymiktar para alindi
+AMX_SUPER_TAKEMONEY_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli oyuncudan !t%i$ !ymiktar para alindi
+AMX_SUPER_TAKEMONEY_PLAYER_LOG = [Oynucaz.Com] TAKE MONEY: ^"%s<%s>^" took $%i from ^"%s<%s>^"
+AMX_SUPER_TAKEMONEY_ALL_PLAYER_LOG = [Oynucaz.Com] TAKE MONEY: ^"%s<%s>^" took all money from ^"%s<%s>^"
+AMX_SUPER_TAKEMONEY_PLAYER_MSG = [Oynucaz.Com] Took $%i from %s
+AMX_SUPER_TAKEMONEY_ALL_PLAYER_MSG = [Oynucaz.Com] Took all money from %s
+
+AMX_SUPER_GLOW_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s adli takim !tParilti !yacti
+AMX_SUPER_GLOW_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s adli takim !tParilti !yacti
+AMX_SUPER_GLOW_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s adli oyuncu !tParilti !yacti
+AMX_SUPER_GLOW_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s adli oyuncu !tParilti !yacti
+AMX_SUPER_GLOW_TEAM_LOG = [Oynucaz.Com] GLOW: ^"%s<%s>^" set glowing on ^"%s^" players
+AMX_SUPER_GLOW_PLAYER_LOG = [Oynucaz.Com] GLOW: ^"%s<%s>^" set glowing on ^"%s<%s>^"
+AMX_SUPER_GLOW_TEAM_MSG = [Oynucaz.Com] Set glowing on %s players
+AMX_SUPER_GLOW_PLAYER_MSG = [Oynucaz.Com] Set glowing on %s
+
+AMX_SUPER_UNGLOW_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli takimin !tParilti!ysi silindi
+AMX_SUPER_UNGLOW_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli takimin !tParilti!ysi silindi
+AMX_SUPER_UNGLOW_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli oyuncunun !tParilti!ysi silindi
+AMX_SUPER_UNGLOW_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli oyuncunun !tParilti!ysi silindi
+AMX_SUPER_UNGLOW_TEAM_LOG = [Oynucaz.Com] UNGLOW: ^"%s<%s>^" removed glowing on ^"%s^" players
+AMX_SUPER_UNGLOW_PLAYER_LOG = [Oynucaz.Com] UNGLOW: ^"%s<%s>^" removed glowing on ^"%s<%s>^"
+AMX_SUPER_UNGLOW_TEAM_MSG = [Oynucaz.Com] Removed glowing on %s players
+AMX_SUPER_UNGLOW_PLAYER_MSG = [Oynucaz.Com] Removed glowing on %s
+
+AMX_SUPER_TEAM_INVALID = [Oynucaz.Com] Gecersiz Takim! Gecerli Takimlar: Terorist, Polis, Izleyici
+AMX_SUPER_TEAM_UNLOCKED = [Oynucaz.Com] The %s team is not locked!
+AMX_SUPER_TEAM_UNLOCK_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yekibine giris kilidi acildi
+AMX_SUPER_TEAM_UNLOCK_CONSOLE = [Oynucaz.Com] %s takimine giris kilidi acildi
+AMX_SUPER_TEAM_UNLOCK_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yekibine giris kilidi acildi
+AMX_SUPER_TEAM_LOCK_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli takim kilitlendi
+AMX_SUPER_TEAM_LOCK_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli takim kilitlendi
+AMX_SUPER_TEAM_LOCKED = [Oynucaz.Com] The %s team is already locked!
+AMX_SUPER_TEAM_LOCK_CONSOLE = [Oynucaz.Com] You Locked the %s team
+AMX_SUPER_UNLOCK_TEAMS_LOG = [Oynucaz.Com] TEAMLOCKER: ^"%s<%s>^" unlocked the ^"%s^" team
+AMX_SUPER_LOCK_TEAMS_LOG = [Oynucaz.Com] TEAMLOCKER: ^"%s<%s>^" locked the ^"%s^" team
+
+AMX_SUPER_TELEPORT_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !y%s !yisinlandi
+AMX_SUPER_TELEPORT_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yisinlandi
+AMX_SUPER_TELEPORT_PLAYER_MSG = [Oynucaz.Com] %s %d x, %d y, %d z kordinatlarina isinlandi
+AMX_SUPER_TELEPORT_ORIGIN_SAVED = [Oynucaz.Com] Saved origin %d x, %d y, %d z from %s
+AMX_SUPER_TELEPORT_PLAYER_LOG = [Oynucaz.Com] TELEPORT: ^"%s<%s>^" teleported ^"%s<%s>^" to %d x, %d y, %d z
+
+AMX_SUPER_TRANSFER_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli oyuncu basarili bir sekilde !t%s !ytakimina gecti.
+AMX_SUPER_TRANSFER_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli oyuncu basarili bir sekilde !t%s !ytakimina gecti.
+AMX_SUPER_TRANSFER_PLAYER_TEAM = !g[Oynucaz.Com]  !yBasarili !ybir !ysekilde !t%s !ytakimina !ytransfer !yedildiniz.
+AMX_SUPER_TRANSFER_PLAYER_LOG = [Oynucaz.Com] TEAMTRANSFER: ^"%s<%s>^" transfered ^"%s^" to the ^"%s^" team
+AMX_SUPER_TRANSFER_PLAYER_CONSOLE = [Oynucaz.Com]  Basarili Bir Sekilde %s Takimindan %s Takimina Transfer Edildiniz.
+AMX_SUPER_TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [Oynucaz.Com]  ADMIN Successfully swapped %s with %s
+AMX_SUPER_TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [Oynucaz.Com] ADMIN %s Successfully swapped %s with %s
+AMX_SUPER_TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [Oynucaz.Com] ADMIN Successfully swapped the teams!
+AMX_SUPER_TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [Oynucaz.Com] ADMIN %s Successfully swapped the teams!
+AMX_SUPER_TRANSFER_SWAP_TEAM_MESSAGE = [Oynucaz.Com] You have swapped the Teams
+AMX_SUPER_TRANSFER_SWAP_PLAYERS_CONSOLE = [Oynucaz.Com] Successfully swapped %s with %s
+AMX_SUPER_TRANSFER_PLAYER_ERROR_CASE1 = [Oynucaz.Com] You can't swap players that are on the same team!
+AMX_SUPER_TRANSFER_PLAYER_ERROR_CASE2 = [Oynucaz.Com] You can't swap players that are not in a team!
+AMX_SUPER_TRANSFER_SWAP_PLAYERS_MESSAGE1 = [Oynucaz.Com] You have been swapped with %s
+AMX_SUPER_TRANSFER_SWAP_PLAYERS_MESSAGE2 = [Oynucaz.Com] You have been swapped with %s
+AMX_SUPER_TRANSFER_SWAP_TEAM_LOG = [Oynucaz.Com] TEAMTRANSFER: ^"%s<%s>^" swapped teams
+AMX_SUPER_TRANSFER_SWAP_PLAYERS_LOG = [Oynucaz.Com] TEAMTRANSFER: ^"%s<%s>^" swapped ^"%s^" with ^"%s^"
+
+AMX_SUPER_AMMO_PLAYER_CASE1 = [Oynucaz.Com] ADMIN Set Unlimited ammo on %s to ^"%d^" 
+AMX_SUPER_AMMO_PLAYER_CASE2 = [Oynucaz.Com] ADMIN %s Set Unlimited ammo on %s to ^"%d^" 
+AMX_SUPER_AMMO_PLAYER_MSG = [Oynucaz.Com] ADMIN Set Unlimited ammo on %s to ^"%d^" 
+AMX_SUPER_AMMO_PLAYER_LOG = [Oynucaz.Com] AMMO: ADMIN ^"%s<%s>^" Set Unlimited ammo on ^"%s^" to ^"%d^" 
+AMX_SUPER_AMMO_TEAM_CASE1 = [Oynucaz.Com] ADMIN Set Unlimited ammo on all %s to ^"%d^" 
+AMX_SUPER_AMMO_TEAM_CASE2 = [Oynucaz.Com] ADMIN %s Set Unlimited ammo on all %s to ^"%d^" 
+AMX_SUPER_AMMO_TEAM_MSG = [Oynucaz.Com] ADMIN Set Unlimited ammo on all %s to ^"%d^" 
+AMX_SUPER_AMMO_TEAM_LOG = [Oynucaz.Com] AMMO: ADMIN ^"%s<%s>^" set unlimited ammo on all ^"%s^" to ^"%d^" 
+
+AMX_SUPER_EXTEND_CANNOT_EXTEND = [Oynucaz.Com] You cannot extend the maptime by a negative number.
+AMX_SUPER_EXTEND_SUCCESS_CASE2 = [Oynucaz.Com] ADMIN %s has extended the map time by %i minutes
+AMX_SUPER_EXTEND_SUCCESS_CASE1 = [Oynucaz.Com] ADMIN as extended the map time by %i minutes
+AMX_SUPER_EXTEND_EXTENDTIME = [Oynucaz.Com] No map may be extended longer than %i minutes at a time.
+AMX_SUPER_EXTEND_EXTENDMAX = [Oynucaz.Com] No user may extend any map more than %i times.
+AMX_SUPER_EXTEND_BAD_NUMBER = [Oynucaz.Com] Maps that are not in the mapcycle cannot be extended.
+AMX_SUPER_EXTEND_NOMAPCYCLE = [Oynucaz.Com] Maps that are not in the mapcycle cannot be extended.
+
+AMX_SUPER_SPAWN_PROTECTION_BADTIME = [Oynucaz.Com] You have to set the Spawn Protection time between 1 and 10 seconds
+AMX_SUPER_SPAWN_PROTECTION_TIME_SET = [Oynucaz.Com] You have set the Spawn Protection time to %d second(s)
+AMX_SUPER_SPAWN_PROTECTION_BADSHELL = [Oynucaz.Com] You have to set the Glow Shellthickness between 1 and 100
+AMX_SUPER_SPAWN_PROTECTION_SHELL_SET = [Oynucaz.Com] You have set the Glow Shellthickness to %d
+AMX_SUPER_SPAWN_PROTECTION_GLOW_ON = [Oynucaz.Com] You have set the Glow to ON
+AMX_SUPER_SPAWN_PROTECTION_GLOW_OFF = [Oynucaz.Com] You have set the Glow to OFF
+AMX_SUPER_SPAWN_PROTECTION_MESSAGE = [Oynucaz.Com] Spawn Protection is enabled for %d second(s)
+
+AMX_SUPER_VOCOM_NO_ACCESS = [ADMIN VOCOM]: You have no access to this command.
+AMX_SUPER_VOCOM_SPEAKING1 = [ADMIN VOCOM]: %s is speaking to the other admins.
+AMX_SUPER_VOCOM_SPEAKING2 = [ADMIN VOCOM]: You are speaking to the admins.
+
+AMX_SUPER_DRUG_TEAM_CASE2 = [Oynucaz.Com] ADMIN, %s, gave drugs to %s.
+AMX_SUPER_DRUG_TEAM_CASE1 = [Oynucaz.Com] ADMIN gave drugs to %s.
+AMX_SUPER_DRUG_PLAYER_CASE2 = [Oynucaz.Com] ADMIN , %s, gave drugs to %s.
+AMX_SUPER_DRUG_PLAYER_CASE1 = [Oynucaz.Com] ADMIN gave drugs to %s.
+AMX_SUPER_DRUG_TEAM_LOG = [Oynucaz.Com] %s ( %s ) gave drugs to %s.
+AMX_SUPER_DRUG_PLAYER_LOG = [Oynucaz.Com] %s ( %s ) gave drugs to %s ( %s ).
+AMX_SUPER_DRUG_TEAM_MSG = [Oynucaz.Com] Gave drugs to %s.
+AMX_SUPER_DRUG_PLAYER_MSG = [Oynucaz.Com] Gave drugs to %s.
+
+AMX_SUPER_SPEED_TEAM_CASE2 = !g[Oynucaz.Com] !y%s!y: !t%s !yadli takimin hiz arttirma ozelligini !t%s !yduruma getirdi.
+AMX_SUPER_SPEED_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli takimin hiz arttirma ozelligini !t%s !yduruma getirdi.
+AMX_SUPER_SPEED_PLAYER_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli oyuncunun hiz arttirma ozelligini !t%s !yduruma getirdi.
+AMX_SUPER_SPEED_PLAYER_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli oyuncunun hiz arttirma ozelligini !t%s !yduruma getirdi.
+AMX_SUPER_SPEED_TEAM_LOG = [Oynucaz.Com] %s ( %s ) set speed for %s
+AMX_SUPER_SPEED_PLAYER_LOG = [Oynucaz.Com] %s ( %s ) set speed for %s ( %s )
+AMX_SUPER_SPEED_TEAM_MSG = [Oynucaz.Com] Set speed %s for %s.
+AMX_SUPER_SPEED_PLAYER_MSG = [Oynucaz.Com] Set speed %s for %s.
+
+AMX_SUPER_BADAIM_KILLED = [Oynucaz.Com] %s was banned for getting a kill while affected by bad aim.
+AMX_SUPER_BADAIM_CONSOLE = amx_badaim <player> <On/off or length of time:1|0|time> <Save?: 1|0>: Turn on/off bad aim on a player.
+AMX_SUPER_BADAIM_NO_BADAIM = [Oynucaz.Com] %s does not have bad aim...from this plugin at least.
+AMX_SUPER_BADAIM_UNDO = [Oynucaz.Com] %s's aim is back to normal...whatever that is.
+AMX_SUPER_BADAIM_CURRENT = [Oynucaz.Com] %s already has bad aim.
+AMX_SUPER_BADAIM_WORSE = [Oynucaz.Com] %s already had bad aim but now its worse!
+AMX_SUPER_BADAIM_BADTIME = Time cannot be negative, unless you're talking about imaginary time.
+AMX_SUPER_BADAIM_MESSAGE1 = [Oynucaz.Com] %s already has bad aim, but now it will turn off automatically in %d seconds.
+AMX_SUPER_BADAIM_MESSAGE2 = [Oynucaz.Com] %s has been given bad aim for %d seconds.
+AMX_SUPER_BADAIM_BAN = [Oynucaz.Com] A timed bad aim cannot be saved.  However, the bad aim will still be executed.
+AMX_SUPER_BADAIM_NO_BADAIM_MESSAGE = [Oynucaz.Com] %s no longer has bad aim.
+AMX_SUPER_BADAIM_NO_BADAIM_MESSAGE_CONSOLE = %s no longer has bad aim.
+AMX_SUPER_BADAIM_LOG = [Oynucaz.Com] %s (%s) %s badaim on %s.
+
+AMX_SUPER_FIRE_TEAM_CASE2 = !g[Oynucaz.Com] !t%s!y: !t%s !yadli takimi yakti
+AMX_SUPER_FIRE_TEAM_CASE1 = !g[Oynucaz.Com] !yADMIN: !t%s !yadli takimi yakti
+AMX_SUPER_FIRE_TEAM_LOG = [Oynucaz.Com] ALEV: ^"%s<%s>^" adli admin ^"%s^" adli takimi yakti
+
+AMX_SUPER_GIVEMONEY_TEAM_CASE2 = [Oynucaz.Com] ADMIN %s gave $%i to %s
+AMX_SUPER_GIVEMONEY_TEAM_CASE1 = [Oynucaz.Com] ADMIN gave $%i to %s
+AMX_SUPER_GIVEMONEY_TEAM_MSG = [Oynucaz.Com] Gave $%i to %s
+AMX_SUPER_GIVEMONEY_TEAM_LOG = [Oynucaz.Com] GIVE MONEY: ^"%s<%s>^" gave $%i to %s
+
+AMX_SUPER_GLOW_TEAM_OFF_CASE2 = [Oynucaz.Com] ADMIN %s: turned off glowing on %s players
+AMX_SUPER_GLOW_TEAM_OFF_CASE1 = [Oynucaz.Com] ADMIN turned off glowing on %s players
+AMX_SUPER_GLOW_PLAYER_OFF_CASE2 = [Oynucaz.Com] ADMIN %s turned off glowing on %s 
+AMX_SUPER_GLOW_PLAYER_OFF_CASE1 = [Oynucaz.Com] ADMIN turned off glowing on %s
+AMX_SUPER_GLOW_INVALID_COLOR = [Oynucaz.Com] That color is not valid. Type amx_glowcolors for a list of valid colors.
+
+AMX_SUPER_BOMB_TRANSFER = Bomb transferred to ^"%s^"^nsince ^"%s^" is AFK
+
+AMX_SUPER_DEADCHAT_MESSAGE = [Oynucaz.Com] You are dead now, you can chat with the other team via voicecomm.
+
+AMX_SUPER_SOUNDFIX = [Oynucaz.Com] Your sound will no longer echo now.
+AMX_SUPER_SOUNDFIX_DISABLED = [Oynucaz.Com] Manual sound fixing is disabled.
+
+AMX_SUPER_AFK_SPEC_KICK_CHAT = "[Oynucaz.Com] %s has been kicked for spectating on the full server"
+AMX_SUPER_AFK_KICK_CHAT = "[Oynucaz.Com] %s has been kicked for being AFK on the full server"
+AMX_SUPER_AFK_TO_SPEC_CHAT = "[Oynucaz.Com] %s Adli Oyuncu AFK Oldugu Icin Izleyici Takimina Transfer Ediliyor"

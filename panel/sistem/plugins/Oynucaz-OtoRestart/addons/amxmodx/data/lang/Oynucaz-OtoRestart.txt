@@ -1,0 +1,7 @@
+[tr]
+AUTO_RESTART = [Oynucaz.Com] Restart Atilmasina '%d' Saniye Kaldi.
+GAME_STARTED = [Oynucaz.Com] Restart Atildi, Iyi Oyunlar
+
+[en]
+AUTO_RESTART = [Oynucaz.Com] Restart Atilmasina '%d' Saniye Kaldi.
+GAME_STARTED = [Oynucaz.Com] Restart Atildi, Iyi Oyunlar

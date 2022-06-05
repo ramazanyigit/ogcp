@@ -1,0 +1,15 @@
+﻿[tr]
+JOIN_MSG = Ping taramasi basladi ping & loss yuksek olanlar kicklenecektir! (ping siniri: %d, loss siniri: %d).
+MSG_ALL_KICK = %s Pingin yuksek oldugundan oyundan atildin.
+MSG_ALL_BAN = %s Pingi yuzunden %d dakika banlandi.
+MSG_ALL_PBAN = %s Devamli pingi yuksek olmasindan dolayi Banlandi.
+MSG_TARGET_LOSS = Internetin Cok Fazla Loss Iceriyor.
+MSG_TARGET_FLUX = Pingin Cok Dengesiz Haraket Ediyor
+
+[en]
+JOIN_MSG = Ping taramasi basladi ping & loss yuksek olanlar kicklenecektir! (ping siniri: %d, loss siniri: %d).
+MSG_ALL_KICK = %s Pingin yuksek oldugundan oyundan atildin.
+MSG_ALL_BAN = %s Pingi yuzunden %d dakika banlandi.
+MSG_ALL_PBAN = %s Devamli pingi yuksek olmasindan dolayi Banlandi.
+MSG_TARGET_LOSS = Internetin Cok Fazla Loss Iceriyor.
+MSG_TARGET_FLUX = Pingin Cok Dengesiz Haraket Ediyor
