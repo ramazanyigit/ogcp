@@ -1,16 +1,24 @@
 version: '3.9'
 
 services:
-  web:
-    image: nginx:latest
+  db:
+    image: mariadb:10.4
+    volumes:
+      - mariadb-data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: mariadb
+      MYSQL_DATABASE: mariadb
+      MYSQL_USER: mariadb
+      MYSQL_PASSWORD: mariadb
+  php-api:
+    image: ramazanyigit.local/ogcp-php-backend
+    build:
+      context: .
+      dockerfile: ./ogcp-backend/docker/php/Dockerfile
+    volumes:
+      - ./ogcp-backend:/var/www/ogcp
     ports:
-        - "8080:80"
-    volumes:
-        - .:/code
-        - ./site.conf:/etc/nginx/conf.d/site.conf
-    links:
-        - php
-php:
-    image: php:8.0.24-fpm-alpine3.16
-    volumes:
-        - .:/code
+      - 8080:80
+  
+volumes:
+  mariadb-data:
